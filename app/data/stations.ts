@@ -49,5 +49,14 @@ export const stations: Station[] = [
     position: { x: 90, y: 15 },
     borough: 'Long Island',
     link: 'https://xyspg.notion.site/Levittown-215a61ed3a8c80d29b34c820bb887a6c?source=copy_link'
+  },
+  {
+    id: 'chambers-street',
+    name: 'Chambers St',
+    lines: ['1','2','3'],
+    colors: ['#FF0000'],
+    position: { x: 60, y: 65 },
+    borough: 'Manhattan',
+    link: 'https://xyspg.notion.site/Chambers-St-216a61ed3a8c8015b41de968a236bbc9?source=copy_link'
   }
 ];
